@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D6C128C3-4B6E-1F82-228B-ABA0984301DE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyRPG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
